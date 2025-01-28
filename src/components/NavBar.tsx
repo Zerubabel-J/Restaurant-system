@@ -1,22 +1,3 @@
-// import React from "react";
-// import Image from "next/image";
-// import food from "../../public/images/FoodWagen.png";
-// import logo from "../../public/images/logo.png";
-// const NavBar = () => {
-//   return (
-//     <div className="flex justify-between items-center h-[75] ">
-//       <div className="flex gap-[5] ">
-//         <Image src={logo} alt="logo" width={28} height={29} />
-//         <Image src={food} alt="logo" width={154} height={37} />
-//       </div>
-//       <button className="bg-[#FFBA26] text-white mr-[10px] w-[100px] h-[42px]  rounded-[14px]">
-//         Add food
-//       </button>
-//     </div>
-//   );
-// };
-
-// export default NavBar;
 " use client ";
 import React, { useState } from "react";
 import Image from "next/image";
