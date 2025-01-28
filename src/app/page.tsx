@@ -5,7 +5,7 @@ import FoodItem from "@/components/FoodItem";
 
 const Page = () => {
   return (
-    <div className="bg-[#FFB30E] min-h-screen">
+    <div className="min-h-screen">
       <Home />
       <div className="container mx-auto py-12">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">

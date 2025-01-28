@@ -18,7 +18,7 @@ const FoodItem: React.FC<FoodItemProps> = ({
   rating,
 }) => {
   return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+    <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300 p-[20]">
       {/* Food Image */}
       <div className="relative h-40">
         <Image
